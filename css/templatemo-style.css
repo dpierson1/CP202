@@ -22,12 +22,12 @@ a:focus {
 .row { display: block; }
 .tm-left-right-container { width: 100%; }
 
-.tm-blue-bg {
+.tm-black-bg {
 	background-color: #020202;
 	color: white;
 }
 
-.tm-blue-text {	color: #006599; }
+.tm-black-text {	color: #050505; }
 .tm-blue-bg a {	color: white; }
 
 .tm-site-name {
@@ -78,7 +78,7 @@ p { line-height: 2; }
 .tm-nav-item:active a,
 .tm-nav-item:focus a,
 .tm-nav-item-link.active {
-	color: #f4ef5e;
+	color: #ffffff;
 }
 
 .tm-about-img-container { margin-top: 50px; }
